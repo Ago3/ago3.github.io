@@ -5,5 +5,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://twitter.com/agostina_cal">View My Twitter Profile</a> 
   <br><br>
   <a href="https://www.linkedin.com/in/agostina-calabrese-65b61bbb/">View My LinkedIn Profile</a> 
+  <br><br>
+  <a href="https://scholar.google.it/citations?user=ao9qyhwAAAAJ&hl=it&oi=ao">View My Scholar Profile</a> 
   
 theme: jekyll-theme-minimal
