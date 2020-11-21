@@ -8,6 +8,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://scholar.google.it/citations?user=ao9qyhwAAAAJ&hl=it&oi=ao">View My Scholar Profile</a> 
   <br><br>
-  <a href="https://twitter.com/agostina_cal" title="twitter"><i class="fa fa-twitter-square"></i></a>
+  <a href="https://twitter.com/agostina_cal" title="twitter"><i class="fa fa-twitter"></i></a>
   
 theme: jekyll-theme-minimal
