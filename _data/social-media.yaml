@@ -1,0 +1,17 @@
+twitter:
+  id: 'agostina_cal'
+  href: 'https://twitter.com/agostina_cal'
+  title: 'Twitter'
+  fa-icon: 'fa-twitter-square'
+
+scholar:
+  id: 'ao9qyhwAAAAJ'
+  href: 'https://scholar.google.com/citations?user=ao9qyhwAAAAJ&hl=it&oi=ao'
+  title: 'Scholar'
+  fa-icon: 'fa-scholar-square'
+
+linkedin:
+  id: 'agostina-calabrese-65b61bbb'
+  href: 'https://www.linkedin.com/in/agostina-calabrese-65b61bbb/'
+  title: 'LinkedIn'
+  fa-icon: 'fa-linkedin-square'
