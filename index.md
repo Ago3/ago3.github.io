@@ -6,3 +6,9 @@ I am a first-year Ph.D. student at the [UKRI Centre for Doctoral Training in NLP
 
 
 Previously I was a Research Fellow at [Sapienza NLP](http://nlp.uniroma1.it/) (Sapienza University of Rome), where I worked on multimodal systems for language-vision tasks, and at the development of [BabelPic](https://sapienzanlp.github.io/babelpic/).
+
+---
+
+### News
+
+* The [AAA tool](https://github.com/Ago3/Adversifier) has been released!
