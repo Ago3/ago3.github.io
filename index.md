@@ -11,5 +11,5 @@ Previously I was a Research Fellow at [Sapienza NLP](http://nlp.uniroma1.it/) (S
 
 ### News
 
-* I am co-organising the [1<sup>st</sup> Workshop on Novel Evaluation Approaches for Text Classification Systems on Social Media](https://neatclass-workshop.github.io/): checkout the call for papers!
+* I am co-organising the [1<sup>st</sup> Workshop on Novel Evaluation Approaches for Text Classification Systems on Social Media](https://neatclass-workshop.github.io/): check out the call for papers!
 * The [AAA tool](https://github.com/Ago3/Adversifier) has been released!
