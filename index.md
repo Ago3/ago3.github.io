@@ -23,4 +23,6 @@ Previously I was a Research Fellow at [Sapienza NLP](http://nlp.uniroma1.it/) (S
 
 ### Slack Workspace for Hate Speech Researchers
 
-I created a Slack workspace open to researchers from any instituition (academia _and_ industry) working on hate speech. Interested in joining? Just drop me a message :)
+I created a Slack workspace open to researchers from any instituition (academia _and_ industry) working on hate speech.
+
+Interested in joining? Just drop me a message :)
