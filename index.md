@@ -12,8 +12,14 @@ Previously I was a Research Fellow at [Sapienza NLP](http://nlp.uniroma1.it/) (S
 ### News
 
 2022:
-* Our paper "Explainable Abuse Detection as Intent Classification and Slot Filling" has been accepted at TACL!
-* Aug-Dec: I'm in the Seattle area working as a research intern at Meta AI.
+* Our paper _"Explainable Abuse Detection as Intent Classification and Slot Filling"_ has been accepted at TACL!
+* Aug-Dec: I'm in the Seattle area working as a research intern at Meta AI!
 * I am co-organising the [1<sup>st</sup> Workshop on Novel Evaluation Approaches for Text Classification Systems on Social Media](https://neatclass-workshop.github.io/): check out the call for papers!
 2021:
 * The [AAA tool](https://github.com/Ago3/Adversifier) has been released!
+
+---
+
+### Slack Workspace for Hate Speech Researchers
+
+I created a Slack workspace open to researchers from any instituition (academia _and_ industry) working on hate speech. Interested in joining? Just drop me a message :)
