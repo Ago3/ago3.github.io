@@ -20,7 +20,7 @@ Previously I was a Research Fellow at [Sapienza NLP](http://nlp.uniroma1.it/) (S
 ### News
 
 2022:
-* Our paper [_"Explainable Abuse Detection as Intent Classification and Slot Filling"_](https://arxiv.org/pdf/2210.02659.pdf) has been accepted at TACL!
+* Our paper [_"Explainable Abuse Detection as Intent Classification and Slot Filling"_](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00527/114369/Explainable-Abuse-Detection-as-Intent) has been accepted at TACL!
 * Aug-Dec: I'm in the Seattle area working as a research intern at Meta AI!
 * I am co-organising the [1<sup>st</sup> Workshop on Novel Evaluation Approaches for Text Classification Systems on Social Media](https://neatclass-workshop.github.io/): check out the call for papers!
 
