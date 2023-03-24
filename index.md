@@ -7,7 +7,7 @@ permalink: /
 
 ---
 
-I am a third-year Ph.D. student at the [UKRI Centre for Doctoral Training in NLP](http://web.inf.ed.ac.uk/cdt/natural-language-processing) (The University of Edinburgh), where I am working on cross-domain explainable abuse detection under the supervision of [Björn Ross](https://sweb.inf.ed.ac.uk/bross3/) and [Mirella Lapata](https://homepages.inf.ed.ac.uk/mlap/). I am also a member of the [SMASH Lab](https://smash.inf.ed.ac.uk/) and [EdinburghNLP](https://edinburghnlp.inf.ed.ac.uk/) group, both based at the [Institute for Language, Cognition and Computation](http://web.inf.ed.ac.uk/ilcc) (ILCC).
+I am a third-year Ph.D. student at the [UKRI Centre for Doctoral Training in NLP](http://web.inf.ed.ac.uk/cdt/natural-language-processing) (The University of Edinburgh), where I am working on cross-domain explainable abuse detection under the supervision of [Björn Ross](https://sweb.inf.ed.ac.uk/bross3/) and [Mirella Lapata](https://homepages.inf.ed.ac.uk/mlap/). I am a member of the [EdinburghNLP](https://edinburghnlp.inf.ed.ac.uk/) group based at the [Institute for Language, Cognition and Computation](http://web.inf.ed.ac.uk/ilcc) (ILCC).
 
 
 I have worked as a Research Intern in the Assistant AI team at Meta Reality Labs.
