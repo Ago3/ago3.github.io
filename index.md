@@ -21,7 +21,7 @@ Previously I was a Research Fellow at [Sapienza NLP](http://nlp.uniroma1.it/) (S
 
 2024:
 * Our paper [_"Explainability and Hate Speech: Structured Explanations Make Social Media Moderators Faster"_](https://arxiv.org/abs/2406.04106) has been accepted at ACL 2024!
-* I'm co-organising the 8<sup>th</th> Workshop on Online Abuse and Harms (WOAH) - co-located with NAACL 2024.
+* I'm co-organising the 8<sup>th</sup> Workshop on Online Abuse and Harms (WOAH) - co-located with NAACL 2024.
 
 2023:
 * We are organising the 2<sup>nd</sup> Workshop on Novel Evaluation Approaches for Text Classification Systems - co-located with ICWSM 2023!
