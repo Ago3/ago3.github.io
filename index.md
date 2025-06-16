@@ -7,7 +7,7 @@ permalink: /
 
 ---
 
-I am a fourth-year Ph.D. student at the [UKRI Centre for Doctoral Training in NLP](http://web.inf.ed.ac.uk/cdt/natural-language-processing) (The University of Edinburgh), where I am working on cross-domain explainable abuse detection under the supervision of [Björn Ross](https://sweb.inf.ed.ac.uk/bross3/) and [Mirella Lapata](https://homepages.inf.ed.ac.uk/mlap/). I am a member of the [EdinburghNLP](https://edinburghnlp.inf.ed.ac.uk/) group based at the [Institute for Language, Cognition and Computation](http://web.inf.ed.ac.uk/ilcc) (ILCC).
+I am a fourth-year Ph.D. student at the [UKRI Centre for Doctoral Training in NLP](http://web.inf.ed.ac.uk/cdt/natural-language-processing) (The University of Edinburgh), where I am working on policy-aware explainable abuse detection under the supervision of [Björn Ross](https://sweb.inf.ed.ac.uk/bross3/) and [Mirella Lapata](https://homepages.inf.ed.ac.uk/mlap/). I am a member of the [EdinburghNLP](https://edinburghnlp.inf.ed.ac.uk/) group based at the [Institute for Language, Cognition and Computation](http://web.inf.ed.ac.uk/ilcc) (ILCC).
 
 
 I have worked as a Research Intern in the Computational Social Science team at Snap Inc. (Fall 2023) and in the Assistant AI team at Meta Reality Labs (Fall 2022).
@@ -15,9 +15,14 @@ I have worked as a Research Intern in the Computational Social Science team at S
 
 Previously I was a Research Fellow at [Sapienza NLP](http://nlp.uniroma1.it/) (Sapienza University of Rome), where I worked on multimodal systems for language-vision tasks, and at the development of [BabelPic](https://sapienzanlp.github.io/babelpic/).
 
+**I am currently on the job market, looking for Research Scientist roles in NLP, ideally with a focus on safety.**
+
 ---
 
 ### News
+
+2025:
+* My latest paper, ["Compositional Generalisation for Explainable Hate Speech Detection"](https://arxiv.org/pdf/2506.03916), is now available as a preprint on arXiv.
 
 2024:
 * I'm co-organising the [9<sup>th</sup> Workshop on Online Abuse and Harms](https://www.workshopononlineabuse.com)! WOAH 9 will be at ACL 2025, and the special theme for this year is "Harms Beyond Hate Speech".
@@ -40,6 +45,6 @@ Previously I was a Research Fellow at [Sapienza NLP](http://nlp.uniroma1.it/) (S
 
 ### Slack Workspace for Hate Speech Researchers
 
-I created a Slack workspace open to researchers from any instituition (academia _and_ industry) working on hate speech.
+I created a Slack workspace open to researchers from any instituition (academia _and_ industry) working on the detection of hate speech and other online harms.
 
 Interested in joining? Fill out [this](https://forms.gle/jWq4ReGN9uJtpHaN7) form.
