@@ -13,7 +13,7 @@ I am a fourth-year Ph.D. student at the [UKRI Centre for Doctoral Training in NL
 I have worked as a Research Intern in the Computational Social Science team at Snap Inc. (Fall 2023) and in the Assistant AI team at Meta Reality Labs (Fall 2022).
 
 
-Previously I was a Research Fellow at [Sapienza NLP](http://nlp.uniroma1.it/) (Sapienza University of Rome), where I worked on multimodal systems for language-vision tasks, and at the development of [BabelPic](https://sapienzanlp.github.io/babelpic/). I also hold a Bachelor's (2017) and a Master's degree (2019) in Computer Science from Sapienza University of Rome, both awarded with full marks and honors (110/110 cum laude).
+Previously I was a Research Fellow at [Sapienza NLP](http://nlp.uniroma1.it/) (Sapienza University of Rome), where I worked on multimodal systems for language-vision tasks, and at the development of [BabelPic](https://sapienzanlp.github.io/babelpic/). I hold a Bachelor's (2017) and a Master's degree (2019) in Computer Science from Sapienza University of Rome, both awarded with full marks and honors (110/110 cum laude).
 
 I am also actively involved in the NLP community around online safety. I co-organised the 8th and 9th [Workshop on Online Abuse and Harms](https://www.workshopononlineabuse.com) (2024, 2025), and in 2022, I created a Slack community for researchers and practitioners working on hate speech and related topics. As of June 2025, it includes over 250 members from academia and industry.
 
