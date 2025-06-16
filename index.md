@@ -26,7 +26,7 @@ Previously I was a Research Fellow at [Sapienza NLP](http://nlp.uniroma1.it/) (S
 
 2024:
 * I'm co-organising the [9<sup>th</sup> Workshop on Online Abuse and Harms](https://www.workshopononlineabuse.com)! WOAH 9 will be at ACL 2025, and the special theme for this year is "Harms Beyond Hate Speech".
-* Our paper [_"Explainability and Hate Speech: Structured Explanations Make Social Media Moderators Faster"_](https://arxiv.org/abs/2406.04106) has been accepted at ACL 2024!
+* Our paper ["Explainability and Hate Speech: Structured Explanations Make Social Media Moderators Faster"](https://arxiv.org/abs/2406.04106) has been accepted at ACL 2024!
 * I'm co-organising the [8<sup>th</sup> Workshop on Online Abuse and Harms (WOAH)](https://www.workshopononlineabuse.com) - co-located with NAACL 2024.
 
 2023:
@@ -34,7 +34,7 @@ Previously I was a Research Fellow at [Sapienza NLP](http://nlp.uniroma1.it/) (S
 * Aug-Dec: I'm in LA working as a research intern at Snap Inc.!
 
 2022:
-* Our paper [_"Explainable Abuse Detection as Intent Classification and Slot Filling"_](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00527/114369/Explainable-Abuse-Detection-as-Intent) has been accepted at TACL!
+* Our paper ["Explainable Abuse Detection as Intent Classification and Slot Filling"](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00527/114369/Explainable-Abuse-Detection-as-Intent) has been accepted at TACL!
 * Aug-Dec: I'm in the Seattle area working as a research intern at Meta AI!
 * I am co-organising the [1<sup>st</sup> Workshop on Novel Evaluation Approaches for Text Classification Systems on Social Media](https://neatclass-workshop.github.io/): check out the call for papers!
 
