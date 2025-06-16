@@ -7,7 +7,7 @@ permalink: /
 
 ---
 
-I am a fourth-year Ph.D. student at the [UKRI Centre for Doctoral Training in NLP](http://web.inf.ed.ac.uk/cdt/natural-language-processing) (The University of Edinburgh), where I am working on policy-aware explainable abuse detection under the supervision of [Björn Ross](https://sweb.inf.ed.ac.uk/bross3/) and [Mirella Lapata](https://homepages.inf.ed.ac.uk/mlap/). I am a member of the [EdinburghNLP](https://edinburghnlp.inf.ed.ac.uk/) group based at the [Institute for Language, Cognition and Computation](http://web.inf.ed.ac.uk/ilcc) (ILCC).
+I am a fourth-year Ph.D. student at the [UKRI Centre for Doctoral Training in NLP](http://web.inf.ed.ac.uk/cdt/natural-language-processing) (The University of Edinburgh), where I am working on policy-aware explainable abuse detection under the supervision of [Björn Ross](https://sweb.inf.ed.ac.uk/bross3/) and [Mirella Lapata](https://homepages.inf.ed.ac.uk/mlap/). My research focuses on developing models that align with platform-specific moderation policies while remaining transparent and explainable, and it demonstrates how this approach can significantly reduce costs in real-world moderation pipelines. I am a member of the [EdinburghNLP](https://edinburghnlp.inf.ed.ac.uk/) group based at the [Institute for Language, Cognition and Computation](http://web.inf.ed.ac.uk/ilcc) (ILCC).
 
 
 I have worked as a Research Intern in the Computational Social Science team at Snap Inc. (Fall 2023) and in the Assistant AI team at Meta Reality Labs (Fall 2022).
