@@ -15,6 +15,8 @@ I have worked as a Research Intern in the Computational Social Science team at S
 
 Previously I was a Research Fellow at [Sapienza NLP](http://nlp.uniroma1.it/) (Sapienza University of Rome), where I worked on multimodal systems for language-vision tasks, and at the development of [BabelPic](https://sapienzanlp.github.io/babelpic/). I also hold a Bachelor's (2017) and a Master's degree (2019) in Computer Science from Sapienza University of Rome, both awarded with full marks and honors (110/110 cum laude).
 
+I am also actively involved in the NLP community around online safety. I co-organised the 8th and 9th [Workshop on Online Abuse and Harms](https://www.workshopononlineabuse.com) (2024, 2025), and in 2022, I created a Slack community for researchers and practitioners working on hate speech and related topics. As of June 2025, it includes over 250 members from academia and industry.
+
 **I am currently on the job market, looking for Research Scientist roles in NLP, ideally with a focus on safety.**
 
 ---
