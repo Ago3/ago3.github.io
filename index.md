@@ -13,7 +13,7 @@ I am a fourth-year Ph.D. student at the [UKRI Centre for Doctoral Training in NL
 I have worked as a Research Intern in the Computational Social Science team at Snap Inc. (Fall 2023) and in the Assistant AI team at Meta Reality Labs (Fall 2022).
 
 
-Previously I was a Research Fellow at [Sapienza NLP](http://nlp.uniroma1.it/) (Sapienza University of Rome), where I worked on multimodal systems for language-vision tasks, and at the development of [BabelPic](https://sapienzanlp.github.io/babelpic/).
+Previously I was a Research Fellow at [Sapienza NLP](http://nlp.uniroma1.it/) (Sapienza University of Rome), where I worked on multimodal systems for language-vision tasks, and at the development of [BabelPic](https://sapienzanlp.github.io/babelpic/). I also hold a Bachelor's (2017) and a Master's degree (2019) in Computer Science from Sapienza University of Rome, both awarded with full marks and honors (110/110 cum laude).
 
 **I am currently on the job market, looking for Research Scientist roles in NLP, ideally with a focus on safety.**
 
