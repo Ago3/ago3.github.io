@@ -24,7 +24,7 @@ I am also actively involved in the NLP community around online safety. I co-orga
 ### News
 
 2025:
-* My latest paper, ["Compositional Generalisation for Explainable Hate Speech Detection"](https://arxiv.org/pdf/2506.03916), is now available as a preprint on arXiv.
+* Our paper ["Compositional Generalisation for Explainable Hate Speech Detection"](https://arxiv.org/pdf/2506.03916) has been accepted at EMNLP 2025!
 
 2024:
 * I'm co-organising the [9<sup>th</sup> Workshop on Online Abuse and Harms](https://www.workshopononlineabuse.com)! WOAH 9 will be at ACL 2025, and the special theme for this year is "Harms Beyond Hate Speech".
