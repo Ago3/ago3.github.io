@@ -17,8 +17,6 @@ Previously I was a Research Fellow at [Sapienza NLP](http://nlp.uniroma1.it/) (S
 
 I am also actively involved in the NLP community around online safety. I co-organised the 8th and 9th [Workshop on Online Abuse and Harms](https://www.workshopononlineabuse.com) (2024, 2025), and in 2022, I created a Slack community for researchers and practitioners working on hate speech and related topics. As of June 2025, it includes over 250 members from academia and industry.
 
-**I am currently on the job market, looking for Research Scientist roles in NLP, ideally with a focus on safety.**
-
 ---
 
 ### News
